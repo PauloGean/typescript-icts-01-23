@@ -35,7 +35,6 @@ for(let i=0;i<qt ; i=i+1){
 
 
  console.log("Lista de Alunos");
-
  //console.log("Nome  |Idade  |Serie Favorita");
  for(let x=0;x<qt ; x=x+1){
    const aluno= alunoLista[x];
